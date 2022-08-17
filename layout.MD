@@ -39,7 +39,7 @@ Clean flat design with neutral colors. The salon offers services to males & fema
 
 ## Colors
 
-- TBD
+Any neutral colors.
 
 ## Fonts
 
