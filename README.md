@@ -19,6 +19,11 @@
         - [About](#about)
         - [Team](#team)
         - [FAQs](#faqs)
+    - [About](#about-page)
+      - [About Section](#about-section)
+      - [Team](#list-team)
+      - [Testimonials](#testimonials)
+      - [FAQs](#about-faqs)
 
 # Information
 Salon Lever is a full service, family-owned salon committed to making you your very best.
@@ -106,3 +111,27 @@ Items listed in no particular order.
 ### FAQs
 
 - List of FAQs
+
+
+## About Page
+
+### About Section
+
+- "About Salon Lever"
+- Brief description of the salon
+- Image or images of the salon
+- Button "Book Appointment"
+
+### List Team
+
+- "Our Team"
+- Multiline no slider of members
+- List of team members with button to Book Now
+
+### Testimonials
+
+- Sliders of testimonies
+
+### About FAQs
+
+- Same as [here](#faqs)
