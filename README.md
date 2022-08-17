@@ -1,24 +1,24 @@
 # Salon Lever
- 
+
 
 # Table Of Contents
 
 - [Information](#information)
-  - [Contact](#contact)
-  - [Social Media](#social-media)
+    - [Contact](#contact)
+    - [Social Media](#social-media)
 - [Design](#design)
-  - [Colors](#colors)
-  - [Fonts](#fonts)
+    - [Colors](#colors)
+    - [Fonts](#fonts)
 - [Core](#core)
-  - [Navigation](#navigation)
-  - [Footer](#footer)
+    - [Navigation](#navigation)
+    - [Footer](#footer)
 - [Pages](#pages)
-  - [Home](#home)
-    - [Slider](#slider)
-    - [Services](#services)
-    - [About](#about)
-    - [Team](#team)
-    - [FAQs](#faqs)
+    - [Home](#home)
+        - [Slider](#slider)
+        - [Services](#services)
+        - [About](#about)
+        - [Team](#team)
+        - [FAQs](#faqs)
 
 # Information
 Salon Lever is a full service, family-owned salon committed to making you your very best.
@@ -55,6 +55,11 @@ Items listed in no particular order.
 
 - Logo
 - Links
+  - Home
+  - About
+  - Services
+  - Products
+  - Contact
 - Phone Number
 
 ## Footer
@@ -71,7 +76,7 @@ Items listed in no particular order.
 ## Home
 
 ### Slider
- 
+
 - Text should read "Claremont's Best Hair Salon"
 - Description should read "We are a full service, family-owned salon committed to making you your very best."
 - Button should read "Book an Appointment"
