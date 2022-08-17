@@ -135,3 +135,19 @@ Items listed in no particular order.
 ### About FAQs
 
 - Same as [here](#faqs)
+
+## Contact Page
+
+### Contact Form
+
+- Name
+- Email
+- Phone Number
+- Message
+
+### Contact Info
+
+- Contact Information as seen [here](#contact)
+- Social Media as seen [here](#social-media)
+- +/- Hours
+- +/- Map View
